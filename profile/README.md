@@ -59,8 +59,20 @@
 
 ## 👥 팀원
 
-### 🖥️ Frontend
+### 👑 PM
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ming0o">
+        <img src="https://avatars.githubusercontent.com/u/96737569?v=4" width="80" style="border-radius:50%"/><br/>
+        <b>밍구</b><br/>
+        <sub>@ming0o</sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
+### 🖥️ Frontend
 <table>
   <tr>
     <td align="center">
