@@ -37,7 +37,6 @@
 
 - **Framework**: Next.js (App Router)
 - **Language**: TypeScript
-- **Font**: Geist
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java%2017-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -48,13 +47,10 @@
 
 - **Language**: Java 17
 - **Framework**: Spring Boot 3.3.5
-- **ORM**: Spring Data JPA
-- **Auth**: JWT (jjwt), Spring Security
+- **Auth**: JWT, Spring Security
 - **DB**: MySQL, Redis
 - **Storage**: AWS S3
 - **API Docs**: Swagger (SpringDoc OpenAPI)
-- **Mail**: Spring Mail
-- **기타**: Google Sheets API, Jsoup (OG 메타 파싱), Thumbnailator
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
